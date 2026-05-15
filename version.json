@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
-  "changelog": "Perbaikan fitur sinkronisasi dan UI Dashboard",
-  "download_url": "https://raw.githubusercontent.com/misalinayah435/app-sidik/main/patch/v1.1.4.zip"
+  "version": "1.1.5",
+  "changelog": "Perbaikan fitur sinkronisasi dan UI Dashboard, menu Presensi, menu Input Nilai, Rekap Presensi dan list siswa tidak hadir.",
+  "download_url": "https://raw.githubusercontent.com/misalinayah435/app-sidik/main/patch/v1.1.5.zip"
 }
